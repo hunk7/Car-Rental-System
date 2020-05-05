@@ -1,5 +1,5 @@
 # Car-Rental-System
-### If you wanna Store State Value as LocalStroage
+### If you wanna Store State Value as LocalStroage in Functional Component
 ```
 const useStateWithLocalStorage = localStorageKey => {
   const [value, setValue] = React.useState(
